@@ -44,6 +44,13 @@ This project is a Natural Language Processing (NLP) application that classifies 
 | Dense (ReLU)  | Fully connected hidden layer                     |
 | Dense (Softmax)| Final output layer with 5-class probabilities   |
 
+
+<img width="652" height="691" alt="لقطة شاشة 2025-07-13 071349" src="https://github.com/user-attachments/assets/4607f0be-2956-430b-9b01-57726656de90" />
+
+
+
+<img width="681" height="564" alt="لقطة شاشة 2025-07-13 071401" src="https://github.com/user-attachments/assets/5e7a8584-5c04-43fa-b6f2-32c17450fe3b" />
+
 ```python
 Sequential([
     Embedding(vocab_size, embedding_dim, input_length=sequence_length),
@@ -82,10 +89,3 @@ Confusion Matrix:
 Visualized with Seaborn heatmap
 
 
-
-
-<img width="652" height="691" alt="لقطة شاشة 2025-07-13 071349" src="https://github.com/user-attachments/assets/4607f0be-2956-430b-9b01-57726656de90" />
-
-
-
-<img width="681" height="564" alt="لقطة شاشة 2025-07-13 071401" src="https://github.com/user-attachments/assets/5e7a8584-5c04-43fa-b6f2-32c17450fe3b" />
