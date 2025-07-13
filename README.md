@@ -78,7 +78,7 @@ Batch Size: 32
 Train/Test Split: 80/20
 
 📈 Evaluation
-Accuracy on test set: 🟢 68 %
+Accuracy on test set: 🟢 48 %
 
 Classification Report:
 
